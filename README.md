@@ -16,8 +16,8 @@ Tasks for this project:
 - preapre unit and integration tests
 
 ## How to run?
-You should have installed Maven in version 3 or later. 
-Type in the console: 
+You should have installed Java 17 and Maven 3 or later. 
+Type in console in project directory: 
 ```
 mvn spring-boot:run
 ```
